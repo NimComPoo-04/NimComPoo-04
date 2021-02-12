@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NimComPoo-04
+- 👀 I’m interested in Coding (duh)
+- 🌱 I’m currently learning C/C++ but I am really struglling 'cause I am a little dumb xD
+- 📫 How to reach me I don't know actually but u can post a issue (i guess)
