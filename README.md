@@ -9,6 +9,7 @@ So Now I have a lot of time to kill so I will list out
 a bunch of hello world in different programming languages.
 Enjoy...
 
+## C (the best language in existance)
 ```c
 #include <stdio.h>
 
@@ -21,6 +22,7 @@ int main(int argc, char **args)
 }
 ```
 
+## C++ (good but not as good as its father)
 ```c++
 #include <iostream>
 
@@ -30,6 +32,7 @@ int main(int argc, char **args)
 }
 ```
 
+## java (the worst langauge in existance)
 ```java
 public class Welcome
 {
@@ -40,6 +43,7 @@ public class Welcome
 }
 ```
 
+## python (i don't like it but ok)
 ```python
 def main():
 	print("Hello, World!!")
@@ -48,6 +52,7 @@ if __name__ == "__main__":
 	main()
 ```
 
+## lua (as sweet as the moon)
 ```lua
 function main()
 	print("Hello, World!!")
@@ -56,6 +61,7 @@ end
 main()
 ```
 
+## ada (C++ on steroids)
 ```ada
 with Ada.Text_IO ;
 use Ada.Text_IO ;
