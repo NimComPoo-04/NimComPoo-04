@@ -71,3 +71,24 @@ begin
 	Put_Line("Hello, World!!") ;
 end
 ```
+# lisp (i don't have one but all the peps who do y'all are very cute 😺
+```lisp
+(print "Hello World!!\n")
+```
+
+# scheme (lisp but a lot more chad)
+```scm
+(display "Hello, World!\n")
+```
+
+# Ocaml (blew my mind, will blow yours too)
+```ocaml
+print_string("Hello, World!!\n") ;;
+```
+
+# Rust (i like ferric chloride more 😆)
+```rust
+fn main(){
+	println!("Hello, World!\n")
+}
+```
