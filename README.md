@@ -1,94 +1,84 @@
-# Hello, World!!
+# Hello
 
-I am NimComPoo the most stupid highschool student in 
-existance. Now I can assure you that even if I am 
-stupid I like CS. I like to study about computers
-and Nature. (that sound like biotech but ok...)
+I like computer stuff. Thats it.
 
-So Now I have a lot of time to kill so I will list out
-a bunch of hello world in different programming languages.
-Enjoy...
+Here is something interesting.
+A bunch of programming languages saying Hello World!
 
-## C (the best language in existance)
+#### C
+I love her, seriously she is easy to learn and hard to use :)
+
 ```c
 #include <stdio.h>
 
-int main(int argc, char **args)
+int main(void)
 {
-	/*using puts instead of printf to just spice shit up*/ 
-
-	puts("Hello, World!!\n") ;
-	return EXIT_SUCCESS ;
+	printf("Hello, World!") ;
 }
 ```
 
-## C++ (good but not as good as its father)
+#### C++
+This dude is freaking giant. Compared to his mother he is
+huge. I don't like him very much (probably 'cause i am stupid).
+But he is good none the less does everything perfectly (most of the time)
+
 ```c++
 #include <iostream>
 
-int main(int argc, char **args)
+int main(void)
 {
-	std::cout << "Hello, World!!" << std::endl ;
+	std::cout << "Hello, World" << std::endl ;
 }
 ```
 
-## java (the worst langauge in existance)
+#### Java
+I won't use any human pronouns to describe Java. I have no emotional
+connection to it. It can rot in tartarus for all I care. Nah just kidding
+he is good too just a little verbose.
+
 ```java
-public class Welcome
+public class Fx
 {
 	public static void main(String args[])
 	{
-		System.out.println("Hello, World!!") ;
-	}	
+		System.out.println("Hello, World!"); 
+	}
 }
 ```
 
-## python (i don't like it but ok)
+#### Python
+Exactly like C except her syntax eats dirt for dinner. And she is sllooowwww...
+but i won't hold any of this against her 'cause she was designed to teach biginners
+programming which she does perfectly.
+
 ```python
-def main():
-	print("Hello, World!!")
-
-if __name__ == "__main__":
-	main()
+print("Hello, World!")
 ```
 
-## lua (as sweet as the moon)
-```lua
-function main()
-	print("Hello, World!!")
-end
+#### Lisp
+Oh man lisp is near to God. Hard to comprehend, will require more than a human lifetime to
+master completely and can do literal wizardry.
 
-main()
+```lisp
+(print "Hello, World!")
 ```
 
-## ada (C++ on steroids)
+#### Scheme
+scheme is just lisp for mere mortals like us
+
+```scheme
+(display "Hello, World!\n")
+```
+
+#### Ada
+Ada is just C++ on steroids. She is used by the US Military that says a lot
+
 ```ada
 with Ada.Text_IO ;
 use Ada.Text_IO ;
 
-procedure main is 
+procedure Main is
 begin
-	Put_Line("Hello, World!!") ;
-end
-```
-## lisp (i don't have one but all the peps who do y'all are very cute 😺
-```lisp
-(print "Hello World!!\n")
-```
-
-## scheme (lisp but a lot more chad)
-```scm
-(display "Hello, World!\n")
-```
-
-## Ocaml (blew my mind, will blow yours too)
-```ocaml
-print_string("Hello, World!!\n") ;;
-```
-
-## Rust (i like ferric chloride more 😆)
-```rust
-fn main(){
-	println!("Hello, World!\n")
-}
+	Put_Line("Hello, World") ;
+end Main ;
 ```
